@@ -1,6 +1,3 @@
-//Name :- Aashish Jha
-//Student Id :- 1001649477
-
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
 import java.io.IOException;
